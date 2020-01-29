@@ -1,0 +1,3 @@
+module epam {
+	exports epam;
+}
